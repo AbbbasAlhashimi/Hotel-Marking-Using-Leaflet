@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ibrahim Pasha Hotel",
+                "BusType": "Five Stars",
+                "Description": "Ibrahim Pasha hotel in Ibrahim Pasha, Istanbul"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.97422400, 41.00601600]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Four Seasons Hotel",
+               "BusType": "Five Stars",
+                "Description": "The Four Seasons hotel in Bosphoros, Istanbul."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.01085900,41.04297300 ]
+            }
+
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "The St. Regis Hotel",
+               "BusType": "Four Stars",
+                "Description": "The St. Regis hotel in Şişli, Istanbul"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.99271800,41.04797000  ]
+            }
+        }
+
+
+    ]
+
+}
